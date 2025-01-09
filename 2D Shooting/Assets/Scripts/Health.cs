@@ -35,6 +35,17 @@ public class Health : MonoBehaviour
         }
     }
 
+    public void RestoreHealth(int healthR)
+    {
+        currentHealth += healthR;
+        if (currentHealth >= 100)
+        {
+            currentHealth = maxHealth;
+        }
+        Debug.Log("Player health +40! Current health: " + currentHealth);
+        UpdateHealthBar();
+    }
+
     void Die()
     {
         Debug.Log("Player died!");
