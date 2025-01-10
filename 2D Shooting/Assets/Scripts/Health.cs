@@ -46,7 +46,7 @@ public class Health : MonoBehaviour
         UpdateHealthBar();
     }
 
-    void Die()
+    public void Die()
     {
         Debug.Log("Player died!");
         Respawn();
