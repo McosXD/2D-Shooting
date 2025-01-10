@@ -10,9 +10,11 @@ public class HealthRestore : MonoBehaviour
         Health health = hitInfo.GetComponent<Health>();
         if (health != null)
         {
-            health.RestoreHealth(healthR);
+            if (hitInfo.CompareTag("Player"))
+            {
+                health.RestoreHealth(healthR);
+                Destroy(gameObject);
+            }
         }
-
-        Destroy(gameObject);
     }
 }
