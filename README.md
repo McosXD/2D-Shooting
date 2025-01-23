@@ -1,6 +1,7 @@
 # 2D Shooting
-Project files for our tutorial on 2D Shooting in Unity.
-
-The asset pack used for the environment is Warped Caves which you can download [here](https://www.assetstore.unity3d.com/#!/content/103250?aid=1101lPGj).
-
-Check out our [YouTube Channel](http://youtube.com/brackeys) for more tutorials.
+Movement control - wasd/
+Shoothing - space
+![Joc](https://github.com/user-attachments/assets/a5a691ed-59c0-4ea3-9867-a25b95e7eb5d)
+![Joc1](https://github.com/user-attachments/assets/8b49d864-9680-4dc4-9a4f-2537965bf844)
+![Joc2](https://github.com/user-attachments/assets/0f46ca9f-3a90-4f96-805e-ea3017c66d94)
+![Joc3](https://github.com/user-attachments/assets/dbd60a7b-2a35-4022-aa24-9cbe191d83f7)
