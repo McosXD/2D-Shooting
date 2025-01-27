@@ -1,7 +1,12 @@
 # 2D Shooting
 Movement control - wasd/
 Shoothing - space
-/nStarted from set of sprites, all codes made by me
+
+
+
+
+
+Started from set of sprites, all codes made by me
 
 ![Joc](https://github.com/user-attachments/assets/58343692-a44a-445e-8c77-644296df3e74)
 ![Joc1](https://github.com/user-attachments/assets/1205ffa6-37d5-4740-ac7c-42bddeeeb758)
